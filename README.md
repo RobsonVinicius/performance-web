@@ -2,6 +2,6 @@
  
  ![Performance Web Header Readme](img/header-readme.png)
 
-  ### **Repositório criado para documentação de estudos em UX Design**
+  ### **Estudos de Performance Web voltado ao Front End**
 </div>
 <br><br>
