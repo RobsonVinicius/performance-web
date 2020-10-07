@@ -8,9 +8,11 @@
 
 ## 📽 Vídeos
 
-+ Como deixar meu site mais rápido? Performance Web - Sérgio Lopes (Alura) (https://www.youtube.com/watch?v=vsn_ACM202Y&ab_channel=AluraCursosOnline)
-+ Sérgio Lopes - Desafios práticos de performance Web - BrazilJS Conf 2016 (https://www.youtube.com/watch?v=EMCBd3kw4zs&ab_channel=BrazilJS)
-+ Performance Web - Alura Live #14 (https://www.youtube.com/watch?v=g4WsGEmzsN4&ab_channel=AluraCursosOnline)
++ [Como deixar meu site mais rápido? Performance Web - Sérgio Lopes (Alura)](https://www.youtube.com/watch?v=vsn_ACM202Y&ab_channel=AluraCursosOnline)
++ [Sérgio Lopes - Desafios práticos de performance Web - BrazilJS Conf 2016](https://www.youtube.com/watch?v=EMCBd3kw4zs&ab_channel=BrazilJS)
++ [Performance Web - Alura Live #14](https://www.youtube.com/watch?v=g4WsGEmzsN4&ab_channel=AluraCursosOnline)
+
+<br>
 
 ## 📚  Livros (Indicações): 
  
