@@ -25,7 +25,8 @@
 
 ## 🌐 Artigos
 
-+ [35 dicas rápidas para melhorar a performance do seu site (Brasil UX Design), João Cunha](https://brasil.uxdesign.cc/35-dicas-r%C3%A1pidas-de-web-performance-59f38057e318)
++ [35 dicas rápidas para melhorar a performance do seu site, João Cunha (Brasil UX Design)](https://brasil.uxdesign.cc/35-dicas-r%C3%A1pidas-de-web-performance-59f38057e318)
++ [Projetos web: entenda a importância da performance, Leonéia Evangelista (Lab King Host)](https://king.host/blog/2018/11/performance-em-projetos-web/)
 
 <br>
 
