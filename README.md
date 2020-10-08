@@ -11,6 +11,7 @@
 ## 📽 Vídeos
 
 + [Como deixar meu site mais rápido? Performance Web - Sérgio Lopes (Alura)](https://www.youtube.com/watch?v=vsn_ACM202Y&ab_channel=AluraCursosOnline)
+
 + [Sérgio Lopes - Desafios práticos de performance Web - BrazilJS Conf 2016](https://www.youtube.com/watch?v=EMCBd3kw4zs&ab_channel=BrazilJS)
 + [Performance Web - Alura Live #14](https://www.youtube.com/watch?v=g4WsGEmzsN4&ab_channel=AluraCursosOnline)
 
@@ -26,6 +27,7 @@
 ## 🌐 Artigos
 
 + [35 dicas rápidas para melhorar a performance do seu site, João Cunha (Brasil UX Design)](https://brasil.uxdesign.cc/35-dicas-r%C3%A1pidas-de-web-performance-59f38057e318)
+
 + [Projetos web: entenda a importância da performance, Leonéia Evangelista (Lab King Host)](https://king.host/blog/2018/11/performance-em-projetos-web/)
 + [Qual é a importância da performance para um site fazer sucesso na internet? (ISBrasil)](https://www.isbrasil.info/blog/qual-e-a-importancia-da-performance-para-um-site-fazer-sucesso-na-internet.html)
 
