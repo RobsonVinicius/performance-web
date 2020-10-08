@@ -30,8 +30,8 @@
 ## 🎓 Cursos
 
 + [Performance Web I: otimizando o front-end (Alura) Instrutor: Sérgio Lopes](https://www.alura.com.br/curso-online-otimizacao-performance-web)
-+ [Performance Web II: Critical Path, HTTP/2 e Resource Hints (Alura) Instrutor: Sérgio Lopes](https://www.alura.com.br/curso-online-otimizacao-performance-web)
-+ [Curso de Performance Web (Youtube - Unset) {Gratuito}](https://www.youtube.com/watch?v=iRazRfRas28&list=PL0N5TAOhX5E-zYhMUyRE2Jhif-NyQ-5ZY&ab_channel=UnSet)
++ [Performance Web II: Critical Path, HTTP/2 e Resource Hints (Alura) Instrutor: Sérgio Lopes](https://www.alura.com.br/curso-online-performance-http2-critical-path)
++ [Curso de Performance Web (Youtube) Instrutor: Ronaldo Aires - Unset{Gratuito}](https://www.youtube.com/watch?v=iRazRfRas28&list=PL0N5TAOhX5E-zYhMUyRE2Jhif-NyQ-5ZY&ab_channel=UnSet)
 + [Performance Web (Udemy) - Instrutor: Ronaldo Aires](https://www.udemy.com/course/curso-de-performance-web/)
 
 
