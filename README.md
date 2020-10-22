@@ -10,10 +10,11 @@
 
 ## 🔧 Ferramentas
 
-+ <a href="https://tinypng.com/" target="_blank"> **Tiny PNG - Smart PNG and JPEG compression** </a> (https://tinypng.com/)
++ <a href="https://tinypng.com/" target="_blank"> **Tiny PNG - Smart PNG and JPEG compression** </a> 
 
 
-
+<br>
+ 
 ## 📽 Vídeos
 
 + [Como deixar meu site mais rápido? Performance Web - Sérgio Lopes (Alura)](https://www.youtube.com/watch?v=vsn_ACM202Y&ab_channel=AluraCursosOnline)
