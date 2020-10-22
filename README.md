@@ -14,8 +14,7 @@
 + <a href="https://compressor.io/" target="_blank"> **Compressor.io - Fast & efficient image
 compression** </a> 
 
-+ <a href="https://www.ilovepdf.com/pt" target="_blank"> **Compressor.io - Fast & efficient image
-compression** </a> 
++ <a href="https://www.ilovepdf.com/pt" target="_blank"> **Ferramentas online para os amantes de PDF** </a> 
 
 
 
