@@ -11,6 +11,8 @@
 ## 🔧 Ferramentas
 
 + <a href="https://tinypng.com/" target="_blank"> **Tiny PNG - Smart PNG and JPEG compression** </a> 
++ <a href="https://tinypng.com/" target="_blank"> **Compressor.io - Fast & efficient image
+compression** </a> 
 
 
 <br>
