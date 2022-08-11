@@ -29,6 +29,7 @@ compression** </a>
 
 + [Sérgio Lopes - Desafios práticos de performance Web - BrazilJS Conf 2016](https://www.youtube.com/watch?v=EMCBd3kw4zs&ab_channel=BrazilJS)
 + [Performance Web - Alura Live #14](https://www.youtube.com/watch?v=g4WsGEmzsN4&ab_channel=AluraCursosOnline)
++ [Playlist Curso de JavaScript - Performance Web - Youtube](https://www.youtube.com/playlist?list=PLEdPHGYbHhldNf25HsibhsuoujmEjuVZq)
 
 <br>
 
