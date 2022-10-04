@@ -35,7 +35,7 @@ compression** </a>
 
 ## 📚  Livros (Indicações): 
  
-+ **High Performance Web Sites: Essential Knowledge For Front-End Engineers** - Steve Souders
++ [**High Performance Web Sites: Essential Knowledge For Front-End Engineers** - Steve Souders](https://amzn.to/3yfiR0T) | [Versão Kindle](https://amzn.to/3Mkbrj3)
 + **High Performance Images: Shrink, Load, and Deliver Images for Speed** - Colin Bendell, Tim Kadlec, Yoav Weiss, Gui Podjarny, Nick Doyle & Mike McCall
 
 <br>
